@@ -19,3 +19,11 @@ openai==1.33.0
 # HuggingFace Instructor Embeddings
 InstructorEmbedding==1.0.1
 
+streamlit
+PyPDF2
+langchain
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+
